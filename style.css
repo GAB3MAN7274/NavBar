@@ -1,6 +1,6 @@
 body {
-    background-color: bisque;
-    color: green;
+    background-color: cadetblue;
+    color: slategray;
 }
 /* Styling the list of items in the nav bar */
 nav ul {
@@ -15,8 +15,8 @@ nav ul {
 
 nav li {
     list-style: none;
-    background-color: green;
-    color: bisque ;
+    background-color: gray;
+    color: lavender ;
     margin: 0;
     flex: 1;
     min-width: 200px;
@@ -29,11 +29,11 @@ nav a, nav a:visited {
     text-decoration: none;
     width: 100%;
     padding:8px 0px;
-    color: bisque;
+    color: white;
 }
 /*Hovering over a link*/
 nav a:hover {
-    color: green;
+    color: gold;
     background-color: rgb(173, 230, 180);
 }
 .dropdown-content {
